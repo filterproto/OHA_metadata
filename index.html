@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+  <title>Element List for Oral Histories | OHA Archipelago Commons Metadata Prototype</title>
+
+  <link rel="stylesheet" type="text/css" href="css/reset.css">
+  <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+  <div class="page-wrapper">
+
+    <div class="header-main">
+      <div class="header-main-content">
+        <div class="header-main-title">OHA Archipelago Commons Metadata Prototype</div>
+      </div>
+    </div>
+
+    <div class="content-main">
+      <span class="page-title title">Element List for Oral Histories</span>
+
+      <div class="timeline">
+        <div class="timeline-title title">Element List Steps</div>
+        <div class="timeline-pages">
+          <div class="timeline-bar-wrapper">
+            <div class="timeline-bar"></div>
+            <div class="timeline-bar timeline-bar-progress"></div>
+          </div>
+          <ol class="timeline-list">
+            <li class="template timeline-page"><div class="timeline-page-num">0</div><button class="timeline-page-name">N/A</button></li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="pages">
+
+        <div class="welcome-page page" data-page-type="welcome">
+          <div class="page-content">
+            <!-- The text in welcome_text.txt will be inserted here -->
+          </div>
+        </div>
+
+        <div class="template page page-form">
+          <div class="page-content">
+
+            <div class="page-form-title"></div>
+
+            <div class="template field">
+              <div class="field-checkbox-wrapper">
+                <input class="field-checkbox" type="checkbox">
+                <div class="field-checkbox-hitbox"></div>
+              </div>
+              <span class="field-info">
+                <div class="field-name">N/A</div>
+                <div class="field-description"></div>
+              </span>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="complete-page page">
+          <div class="page-content">
+            <div class="complete-page-nodata hide">None of the form was filled out. Come back to this page when you're done and more info will appear here.</div>
+            <div class="complete-page-content">
+              Thanks for using the Oral History Metadata Tool! You can come back to this form and edit the values anytime using this link: <a class="reusable-link" href="">Loading...</a>
+              <br><br>
+              Below you will find download buttons for a CSV file including selected and not selected elements with their descriptions and a PDF download too.
+              <br><br>
+              Thank you for participating!
+              <br><br>
+              <button class="complete-download-csv">Download CSV file</button>
+              <button class="complete-download-pdf">Download PDF file</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="footer"></div>
+
+  </div>
+
+  <form class="download" onsubmit="download(this['name'].value, this['text'].value)">
+    <input type="text" name="name">
+    <textarea name="text"></textarea>
+    <input type="submit" value="Download">
+  </form>
+
+  <script src="assets/vendors/jquery-3.6.1.min.js"></script>
+  <script src="assets/vendors/jspdf-1.5.3.min.js"></script>
+  <script src="js/ohelements.js" type="module"></script>
+</body>
+</html>

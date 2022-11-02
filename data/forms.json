@@ -1,0 +1,648 @@
+{
+  "forms": {
+    "plan": {
+      "title": "Metadata collected during the research and planning phases before the interview",
+      "fields": [
+        {
+          "name": "Description of supplemental materials",
+          "description": "Description and / or quantity of any additional materials given by interviewee or gathered during the research / interview process. Can include field notes and other preparatory materials used for research by interviewers. Can be open for public use or closed."
+        },
+        {
+          "name": "Expertise/qualifications of interviewer",
+          "description": ""
+        },
+        {
+          "name": "Intended audience",
+          "description": "Was a specific audience intended by creators of the interview?"
+        },
+        {
+          "name": "Interviewee biographical history info",
+          "description": "Personal, educational, service, occupational, professional history of interviewee. Any of these categories could be broken out within a customized controlled vocabulary or retained in narrative form. For example: hometown, place of birth, organizations affiliated with"
+        },
+        {
+          "name": "Interviewer / interviewee connection",
+          "description": "How were the interviewer and interviewee brought together? Notes about how they know each other. For example: student interviewer matched with elder whose language she can speak fluently"
+        },
+        {
+          "name": "Interviewer preparation",
+          "description": "How the interviewer prepared for the interview including notes about training; for example, their research prior to the interview and sources consulted, topical/question lists"
+        },
+        {
+          "name": "Interviewer selection process",
+          "description": "Background information on selection and onboarding process for interviewer(s)"
+        },
+        {
+          "name": "Organizations supporting interview process",
+          "description": "Organizations that played any number of roles in the interview process (funders, staffing, research support, etc)"
+        },
+        {
+          "name": "Purpose",
+          "description": "Any information about why the interview or project happened; could be where \"About this Project\" information is captured."
+        },
+        {
+          "name": "Reason for selection of this interviewee",
+          "description": "For example: the alumni office solicited an interview for a homecoming event"
+        },
+        {
+          "name": "Researcher contact info",
+          "description": "The person who completed research in preparation for the interview. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle."
+        },
+        {
+          "name": "Researcher name",
+          "description": "The person who completed research in preparation for the interview. Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Sponsor/funder contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Sponsor/funder name",
+          "description": "Full Name, Alternate Name"
+        },
+        {
+          "name": "Stakeholder notes and questions",
+          "description": "Repeatable, inclusive field for information that is being communicated (written, verbally) from stakeholders during all stages of the interview lifecycle. This could include questions from before the interview, interviewee instructions, transcriber questions, proper wording, etc."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Metadata concerning the actual interview",
+      "fields": [
+        {
+          "name": "Additional Information about interview recording room",
+          "description": ""
+        },
+        {
+          "name": "Age of interviewee at time of interview",
+          "description": ""
+        },
+        {
+          "name": "Age of interviewer at time of interview",
+          "description": ""
+        },
+        {
+          "name": "Community represented in the interview",
+          "description": ""
+        },
+        {
+          "name": "Compensation details for anyone involved in interview",
+          "description": "For example: interviewees receiving a .wav file of their interview recording or an intern earning class credit for her role as interviewer"
+        },
+        {
+          "name": "Copyright holder contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Copyright holder name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Duration (recording)",
+          "description": "For example: 1 hours and 30 minutes,01: 30: 00"
+        },
+        {
+          "name": "Existence of release form",
+          "description": "Can be interview agreement, release form, consent form, deed of gift, or other legal form"
+        },
+        {
+          "name": "Family members of interviewee contact info",
+          "description": "For example: Genealogical research. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle."
+        },
+        {
+          "name": "Family members of interviewee names",
+          "description": "For example: Genealogical research. Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Funding story for interview",
+          "description": "Any additional information about funding or support for this interview or project"
+        },
+        {
+          "name": "Gender of interviewee",
+          "description": "Consider input from interviewee when assigning identity labels, even years after the interview was conducted"
+        },
+        {
+          "name": "Interview date",
+          "description": "For example: month, day, year"
+        },
+        {
+          "name": "Interview location",
+          "description": "Could be geolocation, GPS coordinates, street addresses etc. Consider privacy issues; administrative information"
+        },
+        {
+          "name": "Interview recording method",
+          "description": "Could indicate audio or video recording. Could also document multiple camera positions or other recording setups. For example: moving image or sound recording"
+        },
+        {
+          "name": "Interview time",
+          "description": "For example: 2 pm"
+        },
+        {
+          "name": "Interviewee contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Interviewee name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Interviewee condition",
+          "description": "Observable and/or self-reported behaviors and state of being, including emotional, mental, physical, circumstantial. Note of caution: subjective behavioral observations can be sensitive when publicly available."
+        },
+        {
+          "name": "Interviewee date of birth",
+          "description": "Consider privacy issues; administrative information"
+        },
+        {
+          "name": "Interviewer contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Interviewer name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Interviewer condition",
+          "description": "Observable and/or self-reported behaviors and state of being, including emotional, mental, physical, circumstantial. Note of caution: subjective behavioral observations can be sensitive especially when publicly documented."
+        },
+        {
+          "name": "Interviewer date of birth",
+          "description": "Consider privacy issues; administrative information"
+        },
+        {
+          "name": "Languages spoken in interview",
+          "description": ""
+        },
+        {
+          "name": "Native language of interviewee",
+          "description": ""
+        },
+        {
+          "name": "Native language of interviewer",
+          "description": ""
+        },
+        {
+          "name": "Next of kin of interviewee",
+          "description": "For rights management, consider privacy: Legal representative of interviewee after their death. Could be subfields: Full Name, Phone Number, E-mail Address, Institutional Affiliation, Mailing Address, Alternate Name, & Social Media Handle."
+        },
+        {
+          "name": "Others present at the interview contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Others present at the interview name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Original recording media count",
+          "description": "Quantities and inventories of physical media used to record interview or tracks created as part of a whole interview in the case of digital recordings. For example: 2 cassette tapes or five 15-minute .wav tracks, 2.00 hour analog reel-to-reel tape. Repeatable if there are multiple media types or formats."
+        },
+        {
+          "name": "Original recording media type",
+          "description": "For example: open-reel tape, Sony miniDV tape, Sandisk SD card, etc."
+        },
+        {
+          "name": "Quality of audio",
+          "description": "Overall quality of acoustics during interview. Might be used primarily in field notes to capture any technical or disruptive environmental acoustics; also covers notes about equipment"
+        },
+        {
+          "name": "Race of interviewee",
+          "description": "Consider input from interviewee when assigning identity labels, even years after the interview was conducted\n "
+        },
+        {
+          "name": "Recording conditions",
+          "description": "Any additional information about possible disruptions or noise during the recording; for example: telephone quality, coughing, machinery, etc."
+        },
+        {
+          "name": "Recording equipment used",
+          "description": "Make and model of recording equipment, hardware, supplies (example: recording device, microphones, cameras, etc)"
+        },
+        {
+          "name": "Regional dialect of interviewee",
+          "description": "Could also include accent information"
+        },
+        {
+          "name": "Regional dialect of interviewer",
+          "description": "Could also include accent information"
+        },
+        {
+          "name": "Relationship of observer in the room to the interviewee",
+          "description": "For example: daughter of interviewee"
+        },
+        {
+          "name": "Relationship of recording location to its participants",
+          "description": "Consider privacy issues; this field could be in conjunction with \"Interview Location\" element for example: interviewee's home, interviewer's office, etc."
+        },
+        {
+          "name": "Religion of interviewee",
+          "description": "Consider input from interviewee when assigning identity labels, even years after the interview was conducted"
+        },
+        {
+          "name": "Technicians in the room contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Technicians in the room name",
+          "description": "Could be an audio producer, videographer, lighting technician, etc. Could be subfields: Full Name, Alternate Name."
+        },
+        {
+          "name": "Translator contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Translator name",
+          "description": "Could provide translation during interview or afterward during processing. Could be subfields: Full Name, Alternate Name"
+        }
+      ]
+    },
+    "process": {
+      "title": "Metadata concerning the work done on the interview",
+      "fields": [
+        {
+          "name": "Accession date",
+          "description": "Date materials formally accessioned"
+        },
+        {
+          "name": "Archival processing location",
+          "description": "Repeatable if there are multiple locations for various formats and interview components; for example: audio editing, cataloging, transcript, etc)"
+        },
+        {
+          "name": "Audio / video editor contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Audio / video editor name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Captioner contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Captioner name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Cataloger contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Cataloger name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Condition of media",
+          "description": "For all physical and digital materials associated with the interview. For example: note of sticky shed observed on magnetic tape, proprietary digital formats in need of migration, age of optical media storage"
+        },
+        {
+          "name": "Controlled vocabulary subject headings",
+          "description": ""
+        },
+        {
+          "name": "Correction / Redaction notes",
+          "description": "Could be note of changes made to recordings or to supplementary materials such as transcriptions. For example: interviewee reveals private medical info during interview and then asks for it to be redacted from the record"
+        },
+        {
+          "name": "Date interview discovered in collections",
+          "description": "For materials found in storage locations that haven't previously been described or inventoried"
+        },
+        {
+          "name": "Description of group of interviews",
+          "description": "Context for interviews (who organized, interviewer[s], research questions, when and where interviews took place, part of a larger event, etc)"
+        },
+        {
+          "name": "Digital storage location (derivative materials)",
+          "description": "Repeatable if there are multiple materials. Could be transcripts, indices, tape logs, captions, etc. For example: server, folder names"
+        },
+        {
+          "name": "Digital storage location (metadata)",
+          "description": "Does not include transcript as metadata. For example: server, folder names"
+        },
+        {
+          "name": "Digital storage location (supplemental materials)",
+          "description": "For example: server, folder names"
+        },
+        {
+          "name": "Digitizer contact info",
+          "description": "The person or company who did the digitization work. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle."
+        },
+        {
+          "name": "Digitizer name",
+          "description": "The person or company who did the digitization work. Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Donation date",
+          "description": "Date materials arrived or transferred"
+        },
+        {
+          "name": "Donation story",
+          "description": "Any additional information about circumstances and backstory (provenance) of the acquisition of materials (example: retiring professor donating tapes to the repository years later); use this space to describe/capture the circumstances, especially if that process was complex, such as interviews passing through many different owners' hands."
+        },
+        {
+          "name": "File name(s)",
+          "description": "Repeatable if there are multiple materials. For all physical and digital materials associated with the interview. Could be applied at item or collection level."
+        },
+        {
+          "name": "Groups/organizations mentioned during the interview contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Groups/organizations mentioned during the interview names",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Index",
+          "description": "Could be used to indicate the existance of an index, or to store the index content."
+        },
+        {
+          "name": "Index type",
+          "description": "For example: Tape log, audio log, abstract, proper word form, OHMS index, question list or subject index"
+        },
+        {
+          "name": "Indexer contact info",
+          "description": "Repeatable if more than one indexer. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Indexer name",
+          "description": "Repeatable if more than one indexer. Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Intent vs. Outcome",
+          "description": "For example: This would be the place to capture circumstances where a researcher's/interviewer's original agenda was X, but there is a gap of what actually was discussed, yet Y is still interesting enough to preserve the interview."
+        },
+        {
+          "name": "Interview summary",
+          "description": "Narrative description of interview content. Could be formatted as an abstract."
+        },
+        {
+          "name": "Languages (derivative materials)",
+          "description": "Repeatable if there are multiple translations. Could be transcripts, indices, tape logs, captions, etc. For example: Spanish and English transcriptions available."
+        },
+        {
+          "name": "Method used for accession",
+          "description": "Description of process used for transfer/deposit between parties of interview, metadata, and supplementary materials."
+        },
+        {
+          "name": "Name of group of interviews",
+          "description": "Project or series as defined by the institution. For example, a series of 10 interviews with the same interviewee"
+        },
+        {
+          "name": "Name of controlled vocabulary used",
+          "description": "For example: LoC, Regional, etc."
+        },
+        {
+          "name": "Names/versions of software used",
+          "description": "Software used at any point in the production or preservation of interview; for example: DAMS, editing software"
+        },
+        {
+          "name": "New knowledge",
+          "description": "For any additional information discovered or gleaned retrospectively about the project origins, this is a space to add more context. For example: a relative finds an oral history transcript online and contacts repository to share information, or a crowdsourced comment sheds light on a project. Having a dedicated \"why\" field for this seems more manageable than fitting it into a notes field with other non-related information."
+        },
+        {
+          "name": "Number of interviews in group",
+          "description": "Amount within a project or series as defined by the institution. For example, a series of 10 interviews with the same interviewee."
+        },
+        {
+          "name": "Objects referenced in interview",
+          "description": "For example: photographs, maps, etc."
+        },
+        {
+          "name": "Original media digital storage location (recording)",
+          "description": "For example: server, folder names"
+        },
+        {
+          "name": "Original media format",
+          "description": "For example: .wav, .mp4"
+        },
+        {
+          "name": "Original media storage location (recording)",
+          "description": "Repeatable if there are multiple locations for various formats and interview components"
+        },
+        {
+          "name": "Original storage location (derivative materials)",
+          "description": "Repeatable if there are multiple materials. Could be transcripts, indices, tape logs, captions, etc. For example: server, folder names"
+        },
+        {
+          "name": "Original storage location (supplemental materials)",
+          "description": "For example: server, folder names"
+        },
+        {
+          "name": "People mentioned during the interview contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "People mentioned during the interview name",
+          "description": "Person who prepared interviews for future research; might be multiple people at multiple stages; might not be \"archivist,\" but could be. Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Person who processed the interview contact info",
+          "description": "Person who prepared interviews for future research; might be multiple people at multiple stages; might not be \"archivist,\" but could be. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address, & Social Media Handle"
+        },
+        {
+          "name": "Person who processed the interview name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Preservation copy format (derivative materials)",
+          "description": "Repeatable if there are multiple materials. Could be transcripts, indices, tape logs, captions, etc. For example: .PDF, .TIFF"
+        },
+        {
+          "name": "Preservation copy format (recording)",
+          "description": ""
+        },
+        {
+          "name": "Preservation copy format (supplemental materials)",
+          "description": "Any additional materials given by interviewee or gathered during the research / interview process. Can include preparatory materials used for research by interviewers. Can be open for public use or closed."
+        },
+        {
+          "name": "Preservation copy storage location (supplemental materials)",
+          "description": "Repeatable if there are multiple locations for various formats and interview components"
+        },
+        {
+          "name": "Preservation master media digital storage location (recording)",
+          "description": "For example: server, folder names"
+        },
+        {
+          "name": "Preservation master storage location (recording)",
+          "description": ""
+        },
+        {
+          "name": "Preservation master storage location (derivative materials)",
+          "description": "Repeatable if there are multiple materials or locations. Could be transcripts, indices, tape logs, captions, etc. For example: server, folder names."
+        },
+        {
+          "name": "Preservation methods",
+          "description": "Methods used to capture, process, or move interviews into a preservation environment. For example: baking tapes, descriptions of physical storage evironments, processing workflows"
+        },
+        {
+          "name": "Processing hardware used",
+          "description": "Repeatable for names and/or models of hardware used in the processing or preservation of interview; for example: transcription pedals, scanners, digitization decks"
+        },
+        {
+          "name": "Processing milestone dates",
+          "description": "For example: \"date interview recording received,\" \"date captions added,\" \"date draft transcript sent to interviewee,\" \"date signed consent form received by archives,\" etc."
+        },
+        {
+          "name": "Processing software used",
+          "description": "Repeatable for names and/or versions of software used at any point in the processing or preservation of interview; for example: DAMS, editing and captioning software"
+        },
+        {
+          "name": "Subjects discussed",
+          "description": "For example: historic events, social movements, subcultures, individuals, organizations, places (geolocation, GPS coordinates, street addresses etc.), including geographic places explored during interview (i.e., neighborhood tours); any of these categories could be broken out within a customized controlled vocabulary or retained in narrative form"
+        },
+        {
+          "name": "Title of interview",
+          "description": "Name given to the interview, could contain series info"
+        },
+        {
+          "name": "Topical date range",
+          "description": "Could be narrative or numeric description; for example, \"1960s\" or \"This interview took place 10 years after X event\""
+        },
+        {
+          "name": "Total number of interviews at institution",
+          "description": "All interviews across all groups"
+        },
+        {
+          "name": "Transcriber contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Transcriber name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Transcript",
+          "description": "Could be used to indicate the existance of a transcript, or to store the transcript content"
+        },
+        {
+          "name": "Transcript editor contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Transcript editor name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Unique identifier",
+          "description": "Could be alpha or numeric, could accomodate local vocabularies and naming conventions"
+        }
+      ]
+    },
+    "disseminate": {
+      "title": "Metadata concerning access of interview materials",
+      "fields": [
+        {
+          "name": "Access copy digital storage location (recording)",
+          "description": "For example: server, folder names"
+        },
+        {
+          "name": "Access copy format (derivative materials)",
+          "description": "Repeatable if there are multiple materials. Could be transcripts, indices, tape logs, captions, etc. For example: .PDF, .TIFF"
+        },
+        {
+          "name": "Access copy format (recording)",
+          "description": "Could include mezzanine higher quality access copies as well as public facing/user access copies"
+        },
+        {
+          "name": "Access copy format (supplemental materials)",
+          "description": "Any additional materials given by interviewee or gathered during the research / interview process. Can include preparatory materials used for research by interviewers. Can be open for public use or closed."
+        },
+        {
+          "name": "Access copy storage location (derivative materials)",
+          "description": "Repeatable if there are multiple materials or locations. Could be transcripts, indices, tape logs, captions, etc. For example: server, folder names."
+        },
+        {
+          "name": "Access copy storage location (recording)",
+          "description": "Repeatable if there are multiple locations for various formats and interview components"
+        },
+        {
+          "name": "Access copy storage location (supplemental materials)",
+          "description": "Repeatable if there are multiple locations for various formats and interview components"
+        },
+        {
+          "name": "Date made open for research",
+          "description": "Repeatable (for instance if the transcript becomes available earlier than the audio recording); also known as embargo date"
+        },
+        {
+          "name": "Derivative works citing the interview",
+          "description": "For example: citations for documentaries, articles, or live performances"
+        },
+        {
+          "name": "Digital storage size",
+          "description": "Could be size of an individual file such as an access copy of an interview, or all files associated with an interview or group of interviews."
+        },
+        {
+          "name": "Format migration process",
+          "description": "Additional information about migration circumstances and processes implemented"
+        },
+        {
+          "name": "Holder of preservation copies contact info",
+          "description": "Organization or individual. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle."
+        },
+        {
+          "name": "Holder of preservation copies name",
+          "description": "Could be subfields: Name and Alternate Name of organization or individual"
+        },
+        {
+          "name": "Length (derivative materials)",
+          "description": "For example: page count or word count of transcripts, indices, tape logs, captions, etc."
+        },
+        {
+          "name": "Location of materials on the web (URL)",
+          "description": ""
+        },
+        {
+          "name": "On-site access info",
+          "description": "Could be location or hours of operation. For example: reading room"
+        },
+        {
+          "name": "Permalink",
+          "description": ""
+        },
+        {
+          "name": "Preferred citation",
+          "description": "Wording required for a citation, or simply the repository location; could also be an acknowledgement statement"
+        },
+        {
+          "name": "Process for digital verification",
+          "description": "Description of process, including use of check sums, file naming conventions, decision trees, backup infrastructure"
+        },
+        {
+          "name": "Publisher contact info",
+          "description": "Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "Publisher name",
+          "description": "Could be subfields: Full Name, Alternate Name"
+        },
+        {
+          "name": "Related resources",
+          "description": "Names and locations of related archival resources, published materials, exhibitions, etc. This could be within or beyond the interview's respository"
+        },
+        {
+          "name": "Repository",
+          "description": "Could be organizational information, institutional description, location information, or reference to the name of a repository represented in an online portal. Could be used in conjunction with \"On-Site Access Info\" element."
+        },
+        {
+          "name": "Restriction conditions",
+          "description": "Use and access instructions from the interviewee, administrators, copyright holder, repository, etc."
+        },
+        {
+          "name": "Schedule for format migration and fixity verification",
+          "description": "Could be date of next activity or span of time between processes"
+        },
+        {
+          "name": "Terms of use (online and/or on-site)",
+          "description": "Restrictions requested by donor or based on institutional policy; licensing rules; rules for how/if data can be extracted/manipulated"
+        },
+        {
+          "name": "User of interview contact info",
+          "description": "Could be an individuals or organizations making use of the interview for the purposes of research, creative projects, etc. Could be subfields: Phone Number, E-mail Address, Institutional Affiliation, Mailing Address & Social Media Handle"
+        },
+        {
+          "name": "User of interview name",
+          "description": "Could be an individuals or organizations making use of the interview for the purposes of research, creative projects, etc. Could be subfields: Full Name, Alternate Name"
+        }
+      ]
+    }
+  }
+}
